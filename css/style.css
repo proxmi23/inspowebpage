@@ -5,6 +5,7 @@ ul {
 	overflow: hidden;
 	background-color: #000000;
 	box-shadow: 2px 2px 1px #d3d3d3;
+	border-radius: 5px;
 }
 li {
 	float: left;
