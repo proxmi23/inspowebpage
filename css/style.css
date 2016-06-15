@@ -1,12 +1,6 @@
 body {
 	background-color: #8b0000;
 }
-h1 {
-	color: #ffffff;
-}
-p {
-	color: #ffffff;
-}
 .button {
 	width: 100%;
 	background-color: #8b0000;
@@ -16,5 +10,5 @@ p {
 }
 .button:hover {
 	background-color: #000000;
-	color: #8b0000;
+	color: #ffffff;
 }
